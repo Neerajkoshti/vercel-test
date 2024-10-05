@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`server is running on port here ${PORT}`);
+  console.log(`server is running on port here 2 ${PORT}`);
 });
 
 module.exports = app;
